@@ -14,7 +14,7 @@ The core objective is to demonstrate how effectively the SelfCheckGPT-NLI approa
 ## Key Features
 
 1. **SelfCheckGPT-NLI Implementation**: Uses Natural Language Inference to detect contradictions between a primary LLM response and stochastically generated samples.
-2. **Original Dataset Replication (XSum)**: Computes baseline performance metrics (ROC-AUC, PR-AUC) for hallucination detection on news summarization.
+2. **Existing Dataset Replication (XSum)**: Computes baseline performance metrics (ROC-AUC, PR-AUC) for hallucination detection on news summarization.
 3. **Custom Domain Extension**: Evaluates the methodology on a custom dataset, proving cross-domain adaptability.
 4. **Comparative Visualizations**: Generates side-by-side ROC and Precision-Recall curves, alongside random guessing baselines, for rigorous academic analysis.
 
@@ -22,8 +22,8 @@ The core objective is to demonstrate how effectively the SelfCheckGPT-NLI approa
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/zakariakhanabid2/SelfCheckGPT-Replication.git
+   cd SelfCheckGPT-Replication
    ```
 
 2. **Install dependencies:**
@@ -41,6 +41,7 @@ The core objective is to demonstrate how effectively the SelfCheckGPT-NLI approa
    ```
 2. Run the cells sequentially. The notebook is divided into:
    - Environment setup and model initialization.
+   - Replication on original WikiBio dataset
    - XSum dataset processing and baseline evaluation.
    - Loading and evaluating `constructed_dataset_annotated.json`.
    - Plotting the final comparative analysis charts.
@@ -50,4 +51,4 @@ The comparative analysis yields ROC-AUC and PR-AUC scores for both the XSum base
 
 ## Acknowledgments
 - **Original Paper:** [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896) by Manakul et al.
-- Developed as part of [Insert Course/Program Name, e.g., COMP8220 Data Science Assessment].
+- Developed as part of COMP8240: Applications of Data Science Assessment.
