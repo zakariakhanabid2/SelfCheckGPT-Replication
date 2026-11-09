@@ -1,0 +1,33 @@
+# Core Data Science & Plotting
+
+numpy
+
+matplotlib
+
+scikit-learn
+
+
+
+# Progress Tracking
+
+tqdm
+
+
+
+# Jupyter Environment
+
+jupyter
+
+notebook
+
+
+
+# Deep Learning & NLP (SelfCheckGPT Dependencies)
+
+torch
+
+transformers
+
+spacy
+
+selfcheckgpt

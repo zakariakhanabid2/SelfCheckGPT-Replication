@@ -1,0 +1,252 @@
+[
+  {
+    "id": "aus_local_001",
+    "category": "transit",
+    "prompt": "What are the common rules and best practices for travelling with small pets on urban public train networks?"
+  },
+  {
+    "id": "aus_local_002",
+    "category": "retail",
+    "prompt": "What are standard 'change-of-mind' return policies typically found at major retail pharmacies?"
+  },
+  {
+    "id": "aus_local_003",
+    "category": "transit",
+    "prompt": "What is the typical process for a passenger transferring between a metro line and a heavy rail commuter train at a major interchange station?"
+  },
+  {
+    "id": "aus_local_004",
+    "category": "retail",
+    "prompt": "What types of retail items are usually strictly non-refundable due to hygiene or copyright reasons?"
+  },
+  {
+    "id": "aus_local_005",
+    "category": "local_government",
+    "prompt": "How do residential street parking permit systems generally work in busy urban council areas?"
+  },
+  {
+    "id": "aus_local_006",
+    "category": "retail",
+    "prompt": "What is the general process a customer must follow to claim a 'price match' or 'price beat' guarantee at a retail electronics store?"
+  },
+  {
+    "id": "aus_local_007",
+    "category": "retail",
+    "prompt": "What are the typical conditions for returning power tools to a hardware store if the box has already been opened?"
+  },
+  {
+    "id": "aus_local_008",
+    "category": "retail",
+    "prompt": "Do retail loyalty programs typically award points when a customer purchases third-party gift cards? Explain why or why not."
+  },
+  {
+    "id": "aus_local_009",
+    "category": "retail",
+    "prompt": "Why do automotive parts stores usually refuse returns on electrical parts that have already been fitted to a vehicle?"
+  },
+  {
+    "id": "aus_local_010",
+    "category": "retail",
+    "prompt": "What are the consumer rights and standard procedures when returning a faulty television to an electronics retailer?"
+  },
+  {
+    "id": "aus_local_011",
+    "category": "retail",
+    "prompt": "What are a customer's options for returning a defective supermarket item if they have lost the original paper receipt?"
+  },
+  {
+    "id": "aus_local_012",
+    "category": "retail",
+    "prompt": "Are customers generally allowed to return heavily discounted clearance items for a simple change of mind? Why or why not?"
+  },
+  {
+    "id": "aus_local_013",
+    "category": "retail",
+    "prompt": "What is the typical maximum timeframe allowed by major department stores to return clothing purchased online?"
+  },
+  {
+    "id": "aus_local_014",
+    "category": "retail",
+    "prompt": "Do major electronics retailers generally accept returns on laptops if the customer simply changes their mind after opening the box?"
+  },
+  {
+    "id": "aus_local_015",
+    "category": "retail",
+    "prompt": "How can a retail cashier process a return or exchange if the item's barcode is heavily damaged and won't scan?"
+  },
+  {
+    "id": "aus_local_016",
+    "category": "transit",
+    "prompt": "What times of day are generally considered 'peak hours' for public transport networks in major cities during weekdays?"
+  },
+  {
+    "id": "aus_local_017",
+    "category": "transit",
+    "prompt": "Why do public transport stations located directly underneath major airports usually charge passengers a premium station access fee?"
+  },
+  {
+    "id": "aus_local_018",
+    "category": "transit",
+    "prompt": "How do weekly transit reward systems work to encourage commuters to use public transport more frequently?"
+  },
+  {
+    "id": "aus_local_019",
+    "category": "transit",
+    "prompt": "What architectural and navigational features help commuters easily transfer between different train lines at busy transit hubs?"
+  },
+  {
+    "id": "aus_local_020",
+    "category": "transit",
+    "prompt": "How do transit authorities typically handle passenger movement when a train line is closed for weekend trackwork or maintenance?"
+  },
+  {
+    "id": "aus_local_021",
+    "category": "transit",
+    "prompt": "Why do many public transit networks offer significantly cheaper daily fare caps on weekends compared to weekdays?"
+  },
+  {
+    "id": "aus_local_022",
+    "category": "transit",
+    "prompt": "What are the benefits of using a public passenger ferry for commuting in a coastal or harbour city?"
+  },
+  {
+    "id": "aus_local_023",
+    "category": "transit",
+    "prompt": "What happens if a commuter using a smartcard transit system forgets to 'tap off' when exiting a train station?"
+  },
+  {
+    "id": "aus_local_024",
+    "category": "transit",
+    "prompt": "What role do late-night 'NightRide' bus services play in a city's public transport ecosystem?"
+  },
+  {
+    "id": "aus_local_025",
+    "category": "transit",
+    "prompt": "Are bicycles allowed on the Sydney Light Rail (L2 and L3 lines) during off-peak times?"
+  },
+  {
+    "id": "aus_local_026",
+    "category": "local_government",
+    "prompt": "What types of items are generally prohibited from being placed on the curb for a municipal household hard rubbish collection?"
+  },
+  {
+    "id": "aus_local_027",
+    "category": "local_government",
+    "prompt": "Why do regional transport authorities require older vehicles to pass an annual safety inspection before renewing their registration?"
+  },
+  {
+    "id": "aus_local_028",
+    "category": "local_government",
+    "prompt": "What are the benefits and security features of using a Digital Driver Licence on a smartphone instead of a physical plastic card?"
+  },
+  {
+    "id": "aus_local_029",
+    "category": "local_government",
+    "prompt": "Under what circumstances does a used car typically require an extensive identity and safety check rather than a standard basic inspection?"
+  },
+  {
+    "id": "aus_local_030",
+    "category": "local_government",
+    "prompt": "What is the maximum allowed speed limit for a P1 provisional driver (Red Ps) in NSW?"
+  },
+  {
+    "id": "aus_local_031",
+    "category": "local_government",
+    "prompt": "How do you apply for Toll Relief through Service NSW, and what is the minimum annual spend required?"
+  },
+  {
+    "id": "aus_local_032",
+    "category": "local_government",
+    "prompt": "What are the conditions for using a NSW Digital Driver Licence as proof of identity at a licensed venue (pub or club)?"
+  },
+  {
+    "id": "aus_local_033",
+    "category": "local_government",
+    "prompt": "Under what circumstances do you need a blue slip instead of a pink slip for a vehicle in New South Wales?"
+  },
+  {
+    "id": "aus_local_034",
+    "category": "local_government",
+    "prompt": "What does a sequence of three quick beeps from an E-Toll tag indicate when passing through a Sydney toll point?"
+  },
+  {
+    "id": "aus_local_035",
+    "category": "local_government",
+    "prompt": "What is the penalty and demerit point deduction for using a mobile phone while driving on a full licence in NSW?"
+  },
+  {
+    "id": "aus_local_036",
+    "category": "geography_roads",
+    "prompt": "What are the entry and exit points for the Lane Cove Tunnel when travelling eastbound towards the Sydney CBD?"
+  },
+  {
+    "id": "aus_local_037",
+    "category": "geography_roads",
+    "prompt": "Which direction of travel on the Sydney Harbour Bridge incurs a toll, and how does the time-of-day pricing work?"
+  },
+  {
+    "id": "aus_local_038",
+    "category": "geography_roads",
+    "prompt": "What is the most direct driving route from Sydney to Perisher Valley in Kosciuszko National Park?"
+  },
+  {
+    "id": "aus_local_039",
+    "category": "geography_roads",
+    "prompt": "Are you required to carry snow chains when driving a 2WD sedan into Kosciuszko National Park during the winter season?"
+  },
+  {
+    "id": "aus_local_040",
+    "category": "geography_roads",
+    "prompt": "What are the entry and exit points for the Lane Cove Tunnel when travelling eastbound towards the Sydney CBD?"
+  },
+  {
+    "id": "aus_local_041",
+    "category": "geography_roads",
+    "prompt": "Which direction of travel on the Sydney Harbour Bridge incurs a toll, and how does the time-of-day pricing work?"
+  },
+  {
+    "id": "aus_local_042",
+    "category": "geography_roads",
+    "prompt": "What is the most direct driving route from Sydney to Perisher Valley in Kosciuszko National Park?"
+  },
+  {
+    "id": "aus_local_043",
+    "category": "geography_roads",
+    "prompt": "Are you required to carry snow chains when driving a 2WD sedan into Kosciuszko National Park during the winter season?"
+  },
+  {
+    "id": "aus_local_044",
+    "category": "automotive",
+    "prompt": "Where and how can residents of the City of Ryde safely dispose of used engine oil from a DIY vehicle oil change?"
+  },
+  {
+    "id": "aus_local_045",
+    "category": "automotive",
+    "prompt": "What specific paperwork is required by Service NSW to finalize the private sale and transfer of a used car (like a 2004 Toyota Camry)?"
+  },
+  {
+    "id": "aus_local_046",
+    "category": "automotive",
+    "prompt": "Where and how can residents of the City of Ryde safely dispose of used engine oil from a DIY vehicle oil change?"
+  },
+  {
+    "id": "aus_local_047",
+    "category": "automotive",
+    "prompt": "What specific paperwork is required by Service NSW to finalize the private sale and transfer of a used car (like a 2004 Toyota Camry)?"
+  },
+  {
+    "id": "aus_local_048",
+    "category": "transit",
+    "prompt": "How do you transfer from the Metro M1 Line to the T9 Northern Line at Epping Station in Sydney?"
+  },
+  {
+    "id": "aus_local_049",
+    "category": "local_government",
+    "prompt": "What are the requirements and costs to obtain a general boat driving licence in New South Wales?"
+  },
+  {
+    "id": "aus_local_050",
+    "category": "geography_roads",
+    "prompt": "What is the vehicle entry fee for the Royal National Park in NSW, and how long does a day pass last?"
+  }
+]

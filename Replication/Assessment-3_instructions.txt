@@ -1,0 +1,65 @@
+COMP8240: Assessment Task #3: Project Final Report
+Length & Format: 8-10 pages (excluding references)
+Purpose: In this specific assessment, you will produce a project final report that will describe the completed project as a whole: what the goals were, what data was used, how it was processed, and what the results were relative to the goals. It may also include (links to) any related programs written as part of the project, etc.
+
+This is the original paper I have worked on: https://aclanthology.org/2023.emnlp-main.557.pdf
+Original paper code repo: https://github.com/potsawee/selfcheckgpt
+
+Report Structure:
+---------------------------------
+# Description of Paper, and Justification
+In terms of the brief description of the source paper, you should aim only for the level of detail found in the abstract of the paper, along with a short discussion of the evaluation framework (How did the original paper evaluate the work? How successful was the system described in the original paper on the chosen original dataset, as measured by the evaluation framework's metric(s)?)  As justifications for quality of the source work, consider the CORE rankings and Google Scholar discipline rankings, and/or the number of citations.  You will typically cite the paper in your report, and give a URL link to it in a footnote.
+You are free to rework relevant material from your project proposal document here. 
+
+# Description of the original dataset :
+Explain the format of the data, and show a snippet of it (in, e.g., a figure).  You will typically give a URL link to the dataset in a footnote.
+You are free to rework relevant material from your project proposal document here.
+
+# Replication of original work 
+The replication concerns getting original code working on original data, and getting something like the original results.  In some cases (e.g., if there's a mistake in the original work) it might not be possible to get the original results, but the project report should contain evidence of investigating this.  This section should have some detail on the environment used to get the original code working, etc.  You have to provide a URL link to your GitHub repository in a footnote of your report where you have stored the scripts you used in this.  Do not forget to make your GitHub repository publicly accessible when you submit the final version of your report; otherwise you will lose marks. 
+
+# Construction of new data
+In this section, you will explain where you obtained your existing and new data from, and what processing was involved in preparing it as input for your chosen system.  You should show snippets of your data (in, e.g., a figure). If your datasets required human annotation, explain how you did this, and provide a measure of agreement.
+
+# Results on new data 
+In this section, you will explain where you obtained your existing and new data from, and what processing was involved in preparing it as input for your chosen system.  You should show snippets of your data (in, e.g., a figure). If your datasets required human annotation, explain how you did this, and provide a measure of agreement. Also explain how the LLMas-judge fitted into your evaluation.
+
+# Ethical considerations
+In this section, you will discuss what ethical issues arose in the original paper, and that would arise (due to e.g. the Australian Code for the Responsible Conduct of Research) if you were to publish a research paper on the new data that you have used.  For this section, use these resources:
+- https://aclanthology.org/2024.findings-acl.554/
+- https://aclanthology.org/2024.emnlp-main.275/
+- https://aclanthology.org/2023.acl-long.630/
+- https://aclanthology.org/2022.emnlp-main.299/
+- https://aclanthology.org/2025.naacl-long.580/
+- https://github.com/coastalcph/EthiCon
+- https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018
+- https://www.nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2025
+- https://policies.mq.edu.au/document/view.php?id=394
+
+# Conclusions, and any other reflections
+The final section gives an overall summary of the extent to which replication of the original paper was possible, and how well the approach in that original paper generalised to new data.  There is also an option to provide any other reflections -- the realisation that another approach to dataset construction would have been better, or that annotation is unexpectedly difficult for this task, etc.
+
+
+# Marking Rubric and additional criteria:
+## Additional assessment criteria:
+In addition to assessment related to the content of the report as described above, the following aspects of the project will be assessed. 
+•	Quality of code: It is not necessary to produce industrial-strength code, but it should be readable and be able to be run by the marker. 
+•	Quality of new data: The new data should aim for similar quality to the original data, subject to limitations (e.g., we won't have money to pay for crowdsourced annotation labels, and dataset sizes are likely to be much smaller).
+•	Presentation of report: The report should be well-structured and well-written. 
+
+- A high-quality submission: 
+•	is well-structured with clear sections and logical flow; 
+•	has an accurate characterisation of the paper to be investigated and reproduced; 
+•	justifies the choice of paper; 
+•	has good explanations of all the required sections above. 
+
+## Rubric
+- Quality of brief description of chosen paper, and justification (4 marks): Report very clearly describes purpose and relevant details of chosen paper with no significant errors. Chosen paper is justified by several criteria, well explained.
+- Quality of description of datasets used in chosen paper (4 Marks): Report clearly describes all of the datasets used.
+- Quality of replication of original work (8 Marks): Report gives very clear explanation of all of (1) how replication was carried out; (2) what the replicated results are; (3) how close the replicated results were to the original paper; and (4) reasons why the results might not be close, if appropriate.
+- Quality of description of construction of new data (4 marks): Report explains very clearly and in some detail the specific new existing datasets to be used as well as the process by which the newly constructed data was obtained. 
+- Quality of description of results on new data (6 marks): Report gives very clear presentation and explanation of (1) what the results on the new data are, and (2) how they relate to the replicated
+- Quality of discussion of ethical considerations (4 marks): Demonstrates very clear understanding of possible ethical implications of work
+- Quality of code (3 marks): Code is (1) very readable and (2) well-organised in a repository; could easily be run by the marker if necessary
+- Quality of new data (3 marks): New data is very close in quality to the original data. 
+- Quality of presentation (4 marks): Writing style is excellent and clearly conveys the required content, and the report conforms to the specified format.
